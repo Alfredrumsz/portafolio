@@ -1,0 +1,5 @@
+final/*.swp
+final/assets/*.swp
+final/images/*.swp
+final/images/projects/*.swp
+*.swp
