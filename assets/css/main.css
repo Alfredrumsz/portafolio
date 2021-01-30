@@ -2567,6 +2567,7 @@ input, select, textarea {
 					color: #953d75;
 				}
 
+
 /* Image */
 
 	.image {
@@ -3286,6 +3287,11 @@ input, select, textarea {
 		.wrapper.style3-alt {
 			/*original*/
 			background-color: #953d75;
+		}
+
+		.wrapper.style4{
+		  /*color de cursos*/
+		  background-color: #b74e91;
 		}
 
 		.wrapper.fullscreen {
