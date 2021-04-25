@@ -1,3 +1,3 @@
-Este es un portafolio de mi trabajo como Desarrollador Java
+Este es un portafolio de mi trabajo como Desarrollador Java/Python en Backend.
 
-En el cual es una pagina web para poder ver los proyectos.
+En el cual es para poder visualizar los proyectos.
